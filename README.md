@@ -1,2 +1,2 @@
 # ejemplo_ing_soft
-ingeniería del software
+Ejemplo de ingeniería del software
